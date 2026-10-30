@@ -1,8 +1,6 @@
 # unidbg-libnep
 一个http服务器，通过unidbg导出libnep.so方法然后暴露给http业务。
 
-该项目目前也包含了一份大神的apk，基本上也算开箱即用了（？
-
 code w/ gpt-5.6-sol
 
 ## 编译
